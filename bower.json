@@ -1,0 +1,24 @@
+{
+  "name": "lacta-counter",
+  "description": "Lactation counter",
+  "main": "",
+  "authors": [
+    "Evgeniy Bannikov <evgeny@bannikov.info>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.7",
+    "angular-animate": "^1.5.7",
+    "angular-aria": "^1.5.7",
+    "angular-material": "^1.0.9",
+    "angular-websql": "^1.0.2"
+  }
+}
